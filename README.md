@@ -4,4 +4,6 @@ This is a simple readmefile
 
 ##HELLO
 
-Lio diferente
+Updates in stage
+
+More updates in working directory
